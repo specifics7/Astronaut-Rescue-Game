@@ -1,5 +1,5 @@
 # Astronaut-Rescue-Game
-Codename One game made for my object oriented computer graphics programming class
+Codename One game made for my object oriented computer graphics programming class with Java.
 
 ![Screenshot 2025-05-20 191231](https://github.com/user-attachments/assets/992214fe-fb37-4f65-b053-8b5c0ad005ef)
 
